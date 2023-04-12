@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lekshmy
-- 👀 I’m interested in music generation with ML (AI Music generator)
-- 🌱 I’m currently learning RL
-- 💞️ I’m looking to collaborate on exponential random graph models with ML
-- 📫 How to reach me hlekshmynair19@gmail.com
+- 👀 I’m interested in music improvisation and network analysis
+- 🌱 I’m currently learning R
+- 📫 How to reach me lekshmyrohit25@gmail.com
 
 <!---
 leksr/leksis a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
